@@ -1,5 +1,10 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+
+}
+
+* {
+  border: 1px solid black;
 }
 
 img {
@@ -44,3 +49,4 @@ body {
 .info {
   max-width: 200px;
 }
+
